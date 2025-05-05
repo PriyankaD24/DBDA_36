@@ -1,0 +1,4 @@
+# DBDA_36
+cloud computing is cloud based services given to everyone.
+It has IAAS,PAAS,SAAS
+it is used for remote usage by virtual environment
